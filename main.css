@@ -1,0 +1,15 @@
+.header {
+    padding: 40px; /* some padding */
+    text-align: center; /* center the text */
+    background: white; /* green background */
+}
+
+/* Increase the font size of the <h1> element */
+.header h1 {
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    color: black;
+}
+.header h3{
+    font-size: 20px;
+}
