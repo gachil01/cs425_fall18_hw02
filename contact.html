@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="A web page for Homework 2 EPL425">
+    <meta name="keywords" content="Homework2, EPL425">
+    <meta name="author" content="George Achilleos">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>JD Photography</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="contact.css">
+</head>
+
+<body>
+    <div class="header">
+        <h1>JOHN DOE</h1>
+        <h3>PHOTOGRAPHY</h3>
+    </div>
+
+    <div class="navbar">
+        <a href="index.html">Home Page</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </div>
+
+    <div class="container">
+        <form action="action_page.php">
+
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Your name..">
+
+            <label for="surname">Surname</label>
+            <input type="text" id="surname" name="surname" placeholder="Your last name..">
+
+            <label for="email">Email</label>
+            <input type="text" id="email" name="email" placeholder="Your email..">
+
+
+            <label for="subject">Message Subject</label>
+            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+            <label for="meeting">Meeting Hours</label>
+            <select id="meeting" name="meeting hours">
+                <option value="none" selected>None</option>
+                <option value="monday 10.30">Monday 10:30</option>
+                <option value="tuesday 11.00">Tuesday 11:00</option>
+                <option value="thursday 10.00">Thursday 10:00</option>
+                <option value="friday 11.30">Friday 11:30</option>
+            </select>
+
+            <input type="submit" value="Submit">
+
+        </form>
+    </div>
+</body>
+
+</html>
