@@ -18,9 +18,7 @@
     position: fixed;
     width: 100%;
     top:0;
-    /*position: absolute;
-    margin: 20px;
-    width: auto;*/
+  
   }
   .hero-text {
     text-align: center;
@@ -29,7 +27,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 40px;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
 } 
   /* The navbar */
   .navbar {
@@ -59,7 +58,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    height: 10;  
+    height: 0;  
     background-color: #f1f1f1; 
     text-align: center; /* Center text*/
 }
@@ -67,5 +66,12 @@
 .footer i{
   font-size: 50px;
   color:grey;
+  
+}
+
+.footer h2{
+  font-size: 25px;
+  color: grey;
+  font-family: 'Roboto', sans-serif;
 }
  
