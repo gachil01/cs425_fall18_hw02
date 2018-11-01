@@ -10,14 +10,14 @@
   /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-    flex: 40%; /* Set the width of the sidebar */
+    flex: 35%; /* Set the width of the sidebar */
     background-color: #f1f1f1; /* Grey background color */
     padding: 20px; /* Some padding */
 }
 
 /* Main column */
 .main { 
-    flex: 60%; /* Set the width of the main content */
+    flex: 65%; /* Set the width of the main content */
     background-color:#f1f1f1; /* White background color */
     font-family: 'Roboto', sans-serif;
     /*padding: 20px;  Some padding */
