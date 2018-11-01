@@ -51,5 +51,18 @@
     color: black;
   }
 
+  .footer {
+    display: block;
+    color:black;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 0;   
+    text-align: right; /* Center text*/
+}
 
+.footer i{
+  font-size: 50px;
+  color:grey;
+}
  
