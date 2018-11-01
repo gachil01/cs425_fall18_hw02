@@ -1,5 +1,5 @@
 .vision{
-    background-color: #f1f1f1;
+    background-color: white;
 }
 
 .vision h2{
@@ -10,10 +10,13 @@
     font-family: 'Roboto', sans-serif;
     font-size:18px;
 }
+
+.gallery h2{
+    font-family: 'Roboto', sans-serif;
+}
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 4px;
   }
   
   /* Create two equal columns that sits next to each other */
