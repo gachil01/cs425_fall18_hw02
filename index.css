@@ -41,7 +41,7 @@
 .comments h2{
     font-family: 'Roboto', sans-serif;
 }
-*.comments p{
+.comments p{
     font-family: 'Roboto', sans-serif;
-    font-size:20px;
+    font-size:18px;
 }
