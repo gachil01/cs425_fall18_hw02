@@ -19,7 +19,7 @@
     flex-wrap: wrap;
   }
   
-  /* Create two equal columns that sits next to each other */
+  /* Create two equal columns */
   .column {
     flex: 50%;
     padding: 0 4px;
