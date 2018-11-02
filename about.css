@@ -34,3 +34,12 @@
         width: 100%;
     }
 }
+
+.row h2{
+    font-family: 'Roboto', sans-serif;  
+}
+
+.row p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
