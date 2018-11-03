@@ -10,8 +10,8 @@
   /* Create two unequal columns */
 .side {
     flex: 35%;
- /*   background-color: #f1f1f1;
-    padding: 20px;*/
+ /*   background-color: #f1f1f1;*/
+    padding: 20px;
 }
 
 /* Main column */

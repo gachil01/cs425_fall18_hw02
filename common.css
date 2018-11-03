@@ -16,7 +16,7 @@
   /* Position the navbar container inside the image */
   .container {
     position: fixed;
-    width: 50%;
+    width: 70%;
     top:0;
   
   }
@@ -80,7 +80,7 @@
   bottom: 10px;
   float: right;
   right: 18.5%;
-  left: 80%;
+  left: 70%;
   max-width: 30px;
   width: 100%;
   font-size: 12px;
