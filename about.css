@@ -9,14 +9,14 @@
 
   /* Create two unequal columns */
 .side {
-    flex: 30%;
+    flex: 25%;
  /*   background-color: #f1f1f1;*/
     padding: 15px;
 }
 
 /* Main column */
 .main { 
-    flex: 70%; 
+    flex: 75%; 
    /* background-color:#f1f1f1; */
 }
 
