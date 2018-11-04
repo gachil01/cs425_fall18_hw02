@@ -9,15 +9,13 @@
 
   /* Create two unequal columns */
 .side {
-    flex: 25%;
- /*   background-color: #f1f1f1;*/
-    padding: 15px;
+    flex: 30%;
+    padding: 10px;
 }
 
 /* Main column */
 .main { 
-    flex: 75%; 
-   /* background-color:#f1f1f1; */
+    flex: 70%; 
 }
 
 /* Responsive layout */
